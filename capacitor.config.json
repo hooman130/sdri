@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "SDRI",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}

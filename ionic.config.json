@@ -1,0 +1,8 @@
+{
+  "name": "SDRI",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "23a92df8"
+}
